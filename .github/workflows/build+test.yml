@@ -1,13 +1,6 @@
 name: Test all  platforms
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
-  schedule:
-    - cron: 0 0 * * *
+on: push
 
 jobs:
   build_and_test:
