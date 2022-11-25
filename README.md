@@ -42,6 +42,7 @@ This approach has some consequences, mainly:
 
 ## Installation
 
+
 Available through Swift Package Manager - open up the xcode, type this repos URL and you are good to go.
 </br>
 
